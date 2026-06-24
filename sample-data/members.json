@@ -1,0 +1,47 @@
+{
+  "_note": "Fictional sample data for the APS Copilot demos. Not real member information.",
+  "currency": "CAD",
+  "asOf": "2026-06-30",
+  "members": [
+    {
+      "id": "M-1001",
+      "name": "Jordan Avery",
+      "age": 41,
+      "targetRetirementAge": 65,
+      "yearsOfService": 14,
+      "monthlyContribution": 1725,
+      "accruedValue": 594800,
+      "sources": { "public": 178400, "workplace": 362800, "personal": 53600 }
+    },
+    {
+      "id": "M-1002",
+      "name": "Priya Nair",
+      "age": 52,
+      "targetRetirementAge": 60,
+      "yearsOfService": 27,
+      "monthlyContribution": 2310,
+      "accruedValue": 921500,
+      "sources": { "public": 240300, "workplace": 612200, "personal": 69000 }
+    },
+    {
+      "id": "M-1003",
+      "name": "Marcus Bell",
+      "age": 34,
+      "targetRetirementAge": 65,
+      "yearsOfService": 6,
+      "monthlyContribution": 980,
+      "accruedValue": 178900,
+      "sources": { "public": 71600, "workplace": 92100, "personal": 15200 }
+    },
+    {
+      "id": "M-1004",
+      "name": "Sofia Lindqvist",
+      "age": 47,
+      "targetRetirementAge": 62,
+      "yearsOfService": 19,
+      "monthlyContribution": 1540,
+      "accruedValue": 433200,
+      "sources": { "public": 151600, "workplace": 251300, "personal": 30300 }
+    }
+  ]
+}
